@@ -19,5 +19,9 @@ Os seguintes arquivos de texto contêm os prompts utilizados para a criação de
 - 🎧 **Versão editada (final)**: [`ideiasemvozautaepisodio1editado.mp3`](./ideiasemvozautaepisodio1editado.mp3)
 - 🔄 **Versão sem edição**: [`Elevenlabs_ideiasemvozautaepisodio1.mp3`](./Elevenlabs_ideiasemvozautaepisodio1.mp3)
 
+### ⚠️ Observação sobre o áudio
+
+> Nos minutos finais do episódio, o áudio apresenta um volume mais baixo do que o restante. Isso ocorreu devido a uma falha durante a geração pelo ElevenLabs. Tentei contornar o problema, mas não foi possível ajustar satisfatoriamente.
+> 
 ## 🗂️ Estrutura do Projeto
 
