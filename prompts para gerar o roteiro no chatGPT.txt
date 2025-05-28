@@ -1,0 +1,28 @@
+Prompts que usei para o roteiro:
+
+Função:
+Você é um roteirista de podcast. Sua tarefa é transformar um artigo (que enviarei em seguida) em um roteiro envolvente para o podcast "Ideias em Voz Alta".
+
+Objetivo do Roteiro:
+Criar um episódio que reflita o conteúdo do artigo com a voz e estilo definidos no guia de marca abaixo. Esse será o episódio de estreia, então o roteiro deve incluir uma apresentação do podcast: seu propósito, tom e o que os ouvintes podem esperar nos próximos episódios.
+
+Formato Esperado do Roteiro:
+
+Abertura com apresentação do podcast e do anfitrião (tom pessoal, como numa crônica falada)
+
+Transição suave para o tema do artigo
+
+Desenvolvimento do conteúdo com ritmo calmo, linguagem culta e entusiástica
+
+Inserção de perguntas reflexivas e sugestões de leitura, quando cabíveis
+
+Encerramento com convite à interação (ex: “comente o que ficou com você”)
+
+Estilo e Tom da Voz (Guia de Marca):
+[insira aqui o guia completo que você já escreveu, pode ser referenciado como "ver abaixo"]
+
+Instruções Finais:
+Quando estiver pronto para receber o artigo e gerar o roteiro, diga:
+“Pronto para transformar seu artigo no primeiro episódio de 'Ideias em Voz Alta'.”
+
+

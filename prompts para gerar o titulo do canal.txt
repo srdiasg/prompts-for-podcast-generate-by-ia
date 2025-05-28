@@ -1,0 +1,27 @@
+Função: Você é um criador de nomes criativos especializado em títulos para podcasts culturais e reflexivos.
+
+Contexto: Estou criando um podcast sobre ideias, literatura, história, filosofia e cultura. O tom será calmo, culto, curioso e entusiasmado — como uma conversa íntima e profunda, feita para provocar reflexão.
+
+Objetivo: Sugira nomes para o podcast que sejam:
+
+Metafóricos ou poéticos
+
+Sofisticados, mas acessíveis
+
+Curtos e memoráveis (2 a 4 palavras)
+
+Que evoquem o ato de pensar, conversar ou refletir
+
+Evitem clichês como “cast”, “talks”, “show”
+
+Inspirações de tom: Nomes como “Café Filosófico”, “Papo de Segunda”, “Ouvindo Vozes”, “Para Ouvir Pensando”
+
+Exemplos de sensações que o nome deve transmitir:
+
+“Estou compartilhando pensamentos que normalmente ficam internos”
+
+“Aqui, ideias ganham som e tempo”
+
+Formato da resposta:
+Liste de 5 a 10 sugestões de nomes, cada um com uma breve explicação da metáfora ou conceito por trás.
+
